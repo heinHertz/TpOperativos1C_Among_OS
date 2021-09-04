@@ -1,0 +1,33 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Make",
+            "type": "shell",
+            "command": "make",
+            "problemMatcher": [
+                "$gcc"
+            ]
+        },
+        {
+            "label": "Imongo Normal",
+            "type": "shell",
+            "command": "./exec",
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "Imongo Valgrind",
+            "type": "shell",
+            "command": "./vexec",
+            "problemMatcher": [
+                "$gcc"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Make",
+            "type": "shell",
+            "command": "make",
+            "problemMatcher": [
+                "$gcc"
+            ]
+        },
+        {
+            "label": "Discordiador Normal",
+            "type": "shell",
+            "command": "./exec",
+            "problemMatcher": [
+                "$gcc"
+            ]
+        },
+        {
+            "label": "Discordiador Valgrind",
+            "type": "shell",
+            "command": "./vexec"
+        }
+    ]
+}

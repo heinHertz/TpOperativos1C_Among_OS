@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": ".git"
+		},
+		{
+			"path": "discordiador"
+		},
+		{
+			"path": "imongo"
+		},
+		{
+			"path": "miramhq"
+		},
+		{
+			"path": "shared"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"miramhq.h": "c",
+			"atender_mensajes.h": "c",
+			"discordiador.h": "c",
+			"api.h": "c",
+			"administrar_tripulantes.h": "c",
+			"imongo_mensajes.h": "c"
+		}
+	}
+}

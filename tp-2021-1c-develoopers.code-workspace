@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"path": "discordiador"
+		},
+		{
+			"path": "imongo"
+		},
+		{
+			"path": "miramhq"
+		},
+		{
+			"path": "shared"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"imongo.h": "c",
+			"shared_utils.h": "c",
+			"utils.h": "c",
+			"stdlib.h": "c",
+			"list.h": "c",
+			"imongo_config.h": "c",
+			"server.h": "c",
+			"imongo_mensajes.h": "c",
+			"discordiador.h": "c",
+			"api.h": "c",
+			"utilidades.h": "c",
+			"string.h": "c",
+			"administrar_tripulantes.h": "c",
+			"filesystem.h": "c",
+			"imongo_commons.h": "c",
+			"archivos.h": "c",
+			"recursos.h": "c",
+			"hilos.h": "c",
+			"bitacoras.h": "c",
+			"fsck.h": "c",
+			"stdint.h": "c",
+			"dirent.h": "c",
+			"md5.h": "c"
+		}
+	}
+}

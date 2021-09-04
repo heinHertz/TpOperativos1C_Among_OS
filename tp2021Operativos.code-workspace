@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "discordiador"
+		},
+		{
+			"path": "imongo"
+		},
+		{
+			"path": "miramhq"
+		},
+		{
+			"path": "shared"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"atender_mensajes.h": "c",
+			"miramhq.h": "c",
+			"server.h": "c",
+			"mapa.h": "c",
+			"memoriaprincipal.h": "c"
+		}
+	}
+}
